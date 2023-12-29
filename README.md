@@ -13,5 +13,5 @@ Hi there 👋, I'm __Nivetha Sivakumar__ , a professional Data Analyst with two 
   
 ### 📚 Courses and Certificates :
 
-⚡ Google Data Analytics Professional Certificate 
-⚡ Microsoft Azure Fundamentals : AZ 900
+- ⚡ Google Data Analytics Professional Certificate 
+- ⚡ Microsoft Azure Fundamentals : AZ 900
