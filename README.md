@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nivetha Sivakumar, a professional Data Analyst with two years of experience. Renowned for my strong analytical skills, I excel in problem-solving and am proficient in utilizing advanced automation, visualization and analytics tools to contribute effectively to organizational goals.
 
-- 📫 How to reach me: LinkedIn : <https://www.linkedin.com/in/nivetha-s/>
+📫 How to reach me: LinkedIn : <https://www.linkedin.com/in/nivetha-s/>
 
 ###💡Skills💡:
 
